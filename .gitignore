@@ -1,0 +1,4 @@
+# build related items (for binaries)
+
+builds/
+build.sh
